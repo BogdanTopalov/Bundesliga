@@ -1,0 +1,19 @@
+1. Separate the webside to 2 parts: front-end and back-end
+2. Create Django REST back-end
+    - python -m venv venv
+
+    - pip install django
+    - pip install djangorestframework
+    - pip install django-environ
+    - pip install pysimplesoap
+    - pip install suds
+    - pip freeze > requirements.txt
+
+    - django-admin startproject core
+    - python manage.py startapp api
+
+    - Set up url endpoints
+    - Set up settings.py
+
+    - python manage.py runserver
+3. 
