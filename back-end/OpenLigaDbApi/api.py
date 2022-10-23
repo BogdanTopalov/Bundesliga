@@ -4,6 +4,7 @@ Created on 31.01.2014
 @contact: dirrot@web.de
 @license: GPL
 @version: 0.1
+GitHub: https://github.com/Dirrot/python-openligadb-api
 '''
 
 from suds.client import Client
